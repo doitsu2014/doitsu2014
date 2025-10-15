@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/doitsu2014](https://github.com/doitsu2014)
 
-- 📝 I regularly write articles on [ducth.dev](ducth.dev)
+- 📝 I regularly write articles on [ducth.dev](https://ducth.dev)
 
 - 💬 Ask me about **Rust, React, Angular, .Net**
 
