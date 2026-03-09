@@ -12,11 +12,6 @@
 - 📫 How to reach me **thd1152015@gmail.com**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doitsu2014" alt="doitsu2014" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doitsu2014&show_icons=true&locale=en&layout=compact" alt="doitsu2014" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doitsu2014&show_icons=true&locale=en" alt="doitsu2014" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
