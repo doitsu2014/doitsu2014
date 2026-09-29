@@ -2,11 +2,11 @@
 <h3 align="center">Senior Software Engineer</h3>
 <p align="center">
   <a href="https://ducth.dev"><img src="https://img.shields.io/badge/Blog-ducth.dev-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Blog"></a>
+  <br>
   <a href="https://linkedin.com/in/duc-tran-huu-167b1612a"><img src="https://img.shields.io/badge/LinkedIn-Duc%20Tran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/thd1152015"><img src="https://img.shields.io/badge/Twitter-@thd1152015-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:thd1152015@gmail.com"><img src="https://img.shields.io/badge/Email-thd1152015@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-<p align="center"><a href="https://ducth.dev"><strong>🌐 ducth.dev</strong></a></p>
 
 ## 🚀 About Me
 
