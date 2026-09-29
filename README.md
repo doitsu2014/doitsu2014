@@ -16,13 +16,13 @@ I'm a full-stack engineer who approaches every system design-first — defining 
 
 ### 🧠 Skill Level
 
-| Skill | Proficiency |
-|:------|:------------|
-| 💜 **C# / .NET** | <img src="https://progress-bar.xyz/90/?width=280&progress_color=512bd4&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="C# / .NET 90%" /> |
-| 🦀 **Rust** | <img src="https://progress-bar.xyz/80/?width=280&progress_color=b7410e&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="Rust 80%" /> |
-| 🐹 **Golang** | <img src="https://progress-bar.xyz/65/?width=280&progress_color=007d9c&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="Golang 65%" /> |
-| 🏛️ **Architecture** | <img src="https://progress-bar.xyz/85/?width=280&progress_color=0e75b6&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="Architecture 85%" /> |
-| 📱 **Web / Mobile Dev** | <img src="https://progress-bar.xyz/85/?width=280&progress_color=d6336c&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="Web / Mobile Dev 85%" /> |
+| Skill                   | Proficiency                                                                                                                                                                         |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 💜 **C# / .NET**        | <img width="100%" src="https://progress-bar.xyz/90/?width=600&progress_color=512bd4&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="C# / .NET 90%" />        |
+| 🦀 **Rust**             | <img width="100%" src="https://progress-bar.xyz/80/?width=600&progress_color=b7410e&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="Rust 80%" />             |
+| 🐹 **Golang**           | <img width="100%" src="https://progress-bar.xyz/65/?width=600&progress_color=007d9c&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="Golang 65%" />           |
+| 🏛️ **Architecture**    | <img width="100%" src="https://progress-bar.xyz/85/?width=600&progress_color=0e75b6&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="Architecture 85%" />     |
+| 📱 **Web / Mobile Dev** | <img width="100%" src="https://progress-bar.xyz/85/?width=600&progress_color=d6336c&progress_background=e9ecef&style=flat&progress_number_color=ffffff&suffix=%25" alt="Web / Mobile Dev 85%" /> |
 
 ## 🔗 Connect with Me
 <p align="left">
