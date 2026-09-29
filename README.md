@@ -47,7 +47,7 @@ I'm a full-stack engineer who approaches every system design-first — defining 
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | **[Crypto Pocket Butler](https://github.com/doitsu2014/crypto-pocket-butler)** | Watch-only, auth-first multi-chain crypto portfolio dashboard — real-time P&L, FIFO cost basis, and compliance-ready tax reports | Rust · Axum · Tokio · Supabase · PostgreSQL · Next.js · Tailwind |
 | **My CMS**                                                                     | Self-hosted headless CMS with an admin studio, observability, and reverse-proxied deployments                                    | .NET · Supabase · PostgreSQL · Traefik · Grafana / Jaeger        |
-| **IRIS** *(work @ Dragon Capital)*                                             | Back-office & settlement platform for a fund management system — BO Service, ISBD, rebalancing                                   | .NET · SQL Server · Azure · Azure DevOps                         |
+| .NET · SQL Server · Azure · Azure DevOps                         |
 | **Open Source**                                                                | A deliberate, compounding pipeline for contributing back to the projects I rely on                                               | Rust · TypeScript                                                |
 
 ## ✍️ Writing
